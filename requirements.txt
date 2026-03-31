@@ -13,3 +13,6 @@ requests
 python-dotenv
 pytest
 matplotlib
+tensorflow
+plotly
+numpy
